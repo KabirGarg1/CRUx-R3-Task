@@ -4,8 +4,8 @@
 
 1: Added Main Menu
 2:Added more levels
-3:Added More powerups including slow time.
+3:Added More power-ups including slow time.
 4:Added more enemies..One shoots Fireball sprites instead of Bullet sprite.
 5:Player shoots Fireball.Was No able to implement it properly..So In the final submission I removed some of the portion which was not working properly.
-6:Made an overlay
+6:Made an overlay,and added multiple animations and effects.
 7:Added Boss fight.
